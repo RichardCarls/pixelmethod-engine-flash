@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chunk id="cnk_flashman_0" x="0" y="0" w="640" h="320">
+	<broadphase type="cells">
+		<cellShapes>
+			<cellShape id="cell_full">
+				<rect x="0" y="0" xw="8" yw="8" />
+			</cellShape>
+			<cellShape id="cell_rtri_0">
+				<rtri x="0" y="0" hw="8" quad="0">
+			</cellShape>
+		</cellShapes>
+		<cells numRows="20" numCols="40" cellWidth="16" cellHeight="16">
+			<!-- Row[0] -->
+			<cell cellShapeID="cell_full"/><cell cellShapeID="cell_full"/><cell cellShapeID="cell_full"/>
+			<cell cellShapeID="cell_full"/><cell cellShapeID="cell_full"/><cell cellShapeID="cell_full"/>
+			<cell cellShapeID="cell_full"/><cell cellShapeID="cell_full"/><cell cellShapeID="cell_full"/>
+			<cell cellShapeID="cell_full"/><cell cellShapeID="cell_full"/><cell cellShapeID="cell_full"/>
+			<cell cellShapeID="cell_full"/><cell cellShapeID="cell_full"/><cell cellShapeID="cell_full"/>
+			<cell cellShapeID="cell_full"/><cell cellShapeID="cell_full"/><cell cellShapeID="cell_full"/>
+			<cell cellShapeID="cell_full"/><cell cellShapeID="cell_full"/><cell cellShapeID="cell_full"/>
+			<cell cellShapeID="cell_full"/><cell cellShapeID="cell_full"/><cell cellShapeID="cell_full"/>
+			<cell cellShapeID="cell_full"/><cell cellShapeID="cell_full"/><cell cellShapeID="cell_full"/>
+			<cell cellShapeID="cell_full"/><cell cellShapeID="cell_full"/><cell cellShapeID="cell_full"/>
+			<cell cellShapeID="cell_full"/><cell cellShapeID="cell_full"/><cell cellShapeID="cell_full"/>
+			<cell cellShapeID="cell_full"/><cell cellShapeID="cell_full"/><cell cellShapeID="cell_full"/>
+			<cell cellShapeID="cell_full"/><cell cellShapeID="cell_full"/><cell cellShapeID="cell_full"/>
+			<cell cellShapeID="cell_full"/>
+			<!-- Row[1] -->
+			<cell cellShapeID="cell_full"/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/>
+			<cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/>
+			<cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/>
+			<cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell cellShapeID="cell_full"/>
+			<!-- Row[2] -->
+			<cell cellShapeID="cell_full"/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/>
+			<cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/>
+			<cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/>
+			<cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell cellShapeID="cell_full"/>
+			<!-- Row[3] -->
+			<cell cellShapeID="cell_full"/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/>
+			<cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/>
+			<cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/>
+			<cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell cellShapeID="cell_full"/>
+			<!-- Row[4] -->
+			<cell cellShapeID="cell_full"/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/>
+			<cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/>
+			<cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/>
+			<cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell cellShapeID="cell_full"/>
+			<!-- Row[5] -->
+			<cell cellShapeID="cell_full"/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/>
+			<cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/>
+			<cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/>
+			<cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell cellShapeID="cell_full"/>
+			<!-- Row[6] -->
+			<cell cellShapeID="cell_full"/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/>
+			<cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/>
+			<cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/>
+			<cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell cellShapeID="cell_full"/>
+			<!-- Row[7] -->
+			<cell cellShapeID="cell_full"/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/>
+			<cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/>
+			<cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/>
+			<cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell cellShapeID="cell_full"/>
+			<!-- Row[8] -->
+			<cell cellShapeID="cell_full"/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/>
+			<cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/>
+			<cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/>
+			<cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell cellShapeID="cell_full"/>
+			<!-- Row[9] -->
+			<cell cellShapeID="cell_full"/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/>
+			<cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/>
+			<cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/>
+			<cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell cellShapeID="cell_full"/>
+			<!-- Row[10] -->
+			<cell cellShapeID="cell_full"/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/>
+			<cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/>
+			<cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/>
+			<cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell cellShapeID="cell_full"/>
+			<!-- Row[11] -->
+			<cell cellShapeID="cell_full"/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/>
+			<cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/>
+			<cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/>
+			<cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell cellShapeID="cell_full"/>
+			<!-- Row[12] -->
+			<cell cellShapeID="cell_full"/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/>
+			<cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/>
+			<cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/>
+			<cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell cellShapeID="cell_full"/>
+			<!-- Row[13] -->
+			<cell cellShapeID="cell_full"/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/>
+			<cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/>
+			<cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/>
+			<cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell cellShapeID="cell_full"/>
+			<!-- Row[14] -->
+			<cell cellShapeID="cell_full"/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/>
+			<cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/>
+			<cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/>
+			<cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell cellShapeID="cell_full"/>
+			<!-- Row[15] -->
+			<cell cellShapeID="cell_full"/><cell cellShapeID="cell_full"/><cell/>
+			<cell/><cell/><cell/><cell/><cell/><cell/><cell/>
+			<cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/>
+			<cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/>
+			<cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell cellShapeID="cell_full"/>
+			<!-- Row[16] -->
+			<cell cellShapeID="cell_full"/><cell cellShapeID="cell_full"/><cell cellShapeID="cell_rtri_0"/>
+			<cell/><cell/><cell/><cell/><cell/><cell/><cell/>
+			<cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/>
+			<cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/>
+			<cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell cellShapeID="cell_full"/>
+			<!-- Row[17] -->
+			<cell cellShapeID="cell_full"/><cell cellShapeID="cell_full"/><cell cellShapeID="cell_full"/>
+			<cell cellShapeID="cell_rtri_0"/><cell/><cell/><cell/><cell/><cell/><cell/>
+			<cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/>
+			<cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/>
+			<cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell cellShapeID="cell_full"/>
+			<!-- Row[18] -->
+			<cell cellShapeID="cell_full"/><cell cellShapeID="cell_full"/><cell cellShapeID="cell_full"/>
+			<cell cellShapeID="cell_full"/><cell cellShapeID="cell_rtri_0"/><cell/><cell/><cell/><cell/><cell/>
+			<cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/>
+			<cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/>
+			<cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell cellShapeID="cell_full"/>
+			<!-- Row[19] -->
+			<cell cellShapeID="cell_full"/><cell cellShapeID="cell_full"/><cell cellShapeID="cell_full"/>
+			<cell cellShapeID="cell_full"/><cell cellShapeID="cell_full"/><cell cellShapeID="cell_full"/>
+			<cell cellShapeID="cell_full"/><cell cellShapeID="cell_full"/><cell cellShapeID="cell_full"/>
+			<cell cellShapeID="cell_full"/><cell cellShapeID="cell_full"/><cell cellShapeID="cell_full"/>
+			<cell cellShapeID="cell_full"/><cell cellShapeID="cell_full"/><cell cellShapeID="cell_full"/>
+			<cell cellShapeID="cell_full"/><cell cellShapeID="cell_full"/><cell cellShapeID="cell_full"/>
+			<cell cellShapeID="cell_full"/><cell cellShapeID="cell_full"/><cell cellShapeID="cell_full"/>
+			<cell cellShapeID="cell_full"/><cell cellShapeID="cell_full"/><cell cellShapeID="cell_full"/>
+			<cell cellShapeID="cell_full"/><cell cellShapeID="cell_full"/><cell cellShapeID="cell_full"/>
+			<cell cellShapeID="cell_full"/><cell cellShapeID="cell_full"/><cell cellShapeID="cell_full"/>
+			<cell cellShapeID="cell_full"/><cell cellShapeID="cell_full"/><cell cellShapeID="cell_full"/>
+			<cell cellShapeID="cell_full"/><cell cellShapeID="cell_full"/><cell cellShapeID="cell_full"/>
+			<cell cellShapeID="cell_full"/><cell cellShapeID="cell_full"/><cell cellShapeID="cell_full"/>
+			<cell cellShapeID="cell_full"/>
+		</cells>
+	</broadphase>
+	<cameras>
+	</cameras>
+	<entities>
+	</entities>
+	<renderers>
+		<renderer type="tilemap" source="tm_test_0"/>
+	</renderers>
+</chunk>

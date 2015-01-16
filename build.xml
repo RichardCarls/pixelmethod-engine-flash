@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<project name="AS3 Compile" default="compile_and_run" basedir="./">
+	<taskdef resource="flexTasks.tasks" classpath="${FLEX_HOME}/ant/lib/flexTasks.jar"/>
+
+	<!-- Project vars -->
+	<property name="project_name" value="PMEngine"/>
+	<property name="main_class" value="Main.as"/>
+	<property name="srcdir" value="${basedir}/src"/>
+	<property name="libdir" value="${basedir}/lib"/>
+	<property name="debugdir" value="${basedir}/debug"/>
+	<property name="target_swf" value="${project_name}.swf" />
+	
+	<!-- Tool vars -->
+	<property name="mxmlc" value="${FLEX_HOME}/bin/mxmlc"/>
+	<property name="debug_player" value="${FLEX_HOME}/runtimes/player/10.1/lnx/flashplayerdebugger"/>
+	
+	<target name="compile_and_run">
+		<antcall target="debugcompile"/>
+		<antcall target="run"/>
+	</target>
+	
+	<target name="debugcompile">
+	    <mxmlc file="${srcdir}/${main_class}" output="${debugdir}/${target_swf}" as3="true">
+	    	<load-config filename="${FLEX_HOME}/frameworks/flex-config.xml"/>
+	    	<static-link-runtime-shared-libraries>true</static-link-runtime-shared-libraries>
+	    	<debug>true</debug>
+	    	<incremental>true</incremental>
+	    	<source-path path-element="${FLEX_HOME}/frameworks"/>
+	    </mxmlc>
+	</target>
+	
+	<target name="run">
+		<exec executable="${debug_player}">
+			<arg line="'${debugdir}/${target_swf}'" />
+		</exec>
+	</target>
+</project>

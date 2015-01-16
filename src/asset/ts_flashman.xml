@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tileset id="ts_flashman" tileWidth="16" tileHeight="16">
+	<tiles>
+		<!-- Row 0 -->
+		<tile xClip="0" yClip="0"/>
+		<tile xClip="16" yClip="0"/>
+		<tile xClip="32" yClip="0"/>
+		<tile xClip="48" yClip="0"/>
+		<tile xClip="64" yClip="0"/>
+		<!-- Row 1 -->
+		<tile xClip="0" yClip="16" next="6"/>
+		<tile xClip="16" yClip="16" next="5"/>
+		<tile xClip="32" yClip="16" next="10"/>
+		<tile xClip="48" yClip="16" next="11"/>
+		<tile xClip="64" yClip="16" next="12"/>
+		<!-- Row 2 -->
+		<tile xClip="0" yClip="32" next="7"/>
+		<tile xClip="16" yClip="32" next="8"/>
+		<tile xClip="32" yClip="32" next="9"/>
+		<tile xClip="48" yClip="32" next="16"/>
+		<tile xClip="64" yClip="32" next="17"/>
+		<tile xClip="80" yClip="32" next="18"/>
+		<!-- Row 3 -->
+		<tile xClip="0" yClip="48" next="13"/>
+		<tile xClip="16" yClip="48" next="14"/>
+		<tile xClip="32" yClip="48" next="15"/>
+		<tile xClip="48" yClip="48"/>
+		<tile xClip="64" yClip="48"/>
+	</tiles>
+</tileset>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tileset id="ts_debug" tileWidth="16" tileHeight="16">
+	<tiles>
+		<!-- Row 0 -->
+		<tile xClip="0" yClip="0"/>
+		<tile xClip="16" yClip="0"/>
+		<tile xClip="32" yClip="0"/>
+		<tile xClip="48" yClip="0"/>
+		<tile xClip="64" yClip="0"/>
+		<tile xClip="80" yClip="0"/>
+		<tile xClip="96" yClip="0"/>
+		<tile xClip="112" yClip="0"/>
+		<tile xClip="128" yClip="0"/>
+		<tile xClip="144" yClip="0"/>
+		<tile xClip="160" yClip="0"/>
+		<!-- Row 1 -->
+		<tile xClip="0" yClip="16"/>
+		<tile xClip="16" yClip="16"/>
+		<tile xClip="32" yClip="16"/>
+		<tile xClip="48" yClip="16"/>
+		<tile xClip="64" yClip="16"/>
+		<tile xClip="80" yClip="16"/>
+		<tile xClip="96" yClip="16"/>
+		<tile xClip="112" yClip="16"/>
+		<tile xClip="128" yClip="16"/>
+		<tile xClip="144" yClip="16"/>
+		<tile xClip="160" yClip="16"/>
+		<!-- Row 2 -->
+		<tile xClip="0" yClip="32"/>
+		<tile xClip="16" yClip="32"/>
+		<tile xClip="32" yClip="32"/>
+		<tile xClip="48" yClip="32"/>
+		<tile xClip="64" yClip="32"/>
+		<tile xClip="80" yClip="32"/>
+		<tile xClip="96" yClip="32"/>
+		<tile xClip="112" yClip="32"/>
+		<tile xClip="128" yClip="32"/>
+		<tile xClip="144" yClip="32"/>
+		<tile xClip="160" yClip="32"/>
+		<!-- Row 3 -->
+		<tile xClip="0" yClip="48"/>
+		<tile xClip="16" yClip="48"/>
+		<tile xClip="32" yClip="48"/>
+		<tile xClip="48" yClip="48"/>
+		<tile xClip="64" yClip="48"/>
+		<tile xClip="80" yClip="48"/>
+		<tile xClip="96" yClip="48"/>
+		<tile xClip="112" yClip="48"/>
+		<tile xClip="128" yClip="48"/>
+		<tile xClip="144" yClip="48"/>
+		<tile xClip="160" yClip="48"/>
+	</tiles>
+</tileset>

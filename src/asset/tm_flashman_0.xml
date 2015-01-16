@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tilemap id="tm_flashman_0" numRows="10" numCols="20" tileWidth="16" tileHeight="16">
+	<tilesets>
+		<tileset id="ts_flashman"/>
+	</tilesets>
+	<tiles renderTarget="mainRenderTarget" layer="background">
+		<row>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+		</row>
+		<row>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+		</row>
+		<row>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+		</row>
+		<row>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+		</row>
+		<row>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+		</row>
+		<row>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+		</row>
+		<row>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+		</row>
+		<row>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="5"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+		</row>
+		<row>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="7"/>
+			<tile ts="0" tileIndex="8"/>
+			<tile ts="0" tileIndex="9"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="7"/>
+			<tile ts="0" tileIndex="8"/>
+			<tile ts="0" tileIndex="9"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+			<tile ts="0" tileIndex="0"/>
+		</row>
+		<row>
+			<tile ts="0" tileIndex="5"/>
+			<tile ts="0" tileIndex="5"/>
+			<tile ts="0" tileIndex="5"/>
+			<tile ts="0" tileIndex="5"/>
+			<tile ts="0" tileIndex="5"/>
+			<tile ts="0" tileIndex="5"/>
+			<tile ts="0" tileIndex="5"/>
+			<tile ts="0" tileIndex="5"/>
+			<tile ts="0" tileIndex="5"/>
+			<tile ts="0" tileIndex="5"/>
+			<tile ts="0" tileIndex="5"/>
+			<tile ts="0" tileIndex="5"/>
+			<tile ts="0" tileIndex="5"/>
+			<tile ts="0" tileIndex="5"/>
+			<tile ts="0" tileIndex="5"/>
+			<tile ts="0" tileIndex="5"/>
+			<tile ts="0" tileIndex="5"/>
+			<tile ts="0" tileIndex="5"/>
+			<tile ts="0" tileIndex="5"/>
+			<tile ts="0" tileIndex="5"/>
+		</row>
+	</tiles>
+</tilemap>
