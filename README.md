@@ -1,7 +1,7 @@
 # pixelmethod-engine-flash
 A 2D game engine for Flash. This project is not being developed anymore.
 
-![Alt text](/Screenshot_2019-10-29_23-40-26?raw=true "Screenshot")
+![Alt text](/Screenshot_2019-10-29_23-40-26.png?raw=true "Screenshot")
 
 ## Current features
 - Multiple render targets with asignable cameras (multiple world views)
